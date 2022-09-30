@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: sans-serif;
+    font-family: "Gill Sans", sans-serif;
     background: linear-gradient(to right, #4b00f7, #4b00f7 23rem, transparent 1rem, transparent 100% );
 }
 
@@ -41,6 +41,7 @@ p {
 }
 .contact-space {
     align-self: end;
+    font-size: 0.9em;
 }
 h1 {
     margin: 0;
