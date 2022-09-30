@@ -36,6 +36,11 @@ aside {
 article {
     padding: 5em;
     align-self: center;
+    display: flex;
+    flex-direction: column;
+}
+svg {
+    align-self: end;
 }
 p {
 }
